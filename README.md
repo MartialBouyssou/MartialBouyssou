@@ -1,9 +1,6 @@
 # 💫 About Me:
 Computer science student at IUT du Limousin, Limoges (France).  
-Linux-focused workflow 🐧
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martial.bouyssou@etu.unilim.fr)  
+Linux-focused workflow 🐧   
 
 ## 🖥️ Environment:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
