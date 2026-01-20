@@ -1,15 +1,14 @@
 # 💫 About Me:
-Computer science student at IUT du Limousin, Limoges (France).
+Computer science student at IUT du Limousin, Limoges (France).  
 Linux-focused workflow 🐧
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martial.bouyssou@etu.unilim.fr)  
 
 ## 🖥️ Environment:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martial.bouyssou@etu.unilim.fr) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ## 💻 Tech Stack
 
@@ -30,16 +29,15 @@ Linux-focused workflow 🐧
 
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 
 ## 📚 Currently learning
 - Advanced Python & Java
-- 
 - Linux system tools  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MartialBouyssou&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MartialBouyssou&theme=shadow_green&hide_border=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=MartialBouyssou&theme=shadow_green&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartialBouyssou&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
